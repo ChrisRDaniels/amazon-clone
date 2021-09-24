@@ -3,11 +3,12 @@ import Header from "../components/Header.js";
 import Banner from "../components/Banner.js";
 import ProductFeed from "../components/ProductFeed.js";
 
+
 export default function Home({ products }) {
 	return (
 		<div className='bg-white_smoke'>
 			<Head>
-				<title>Amazon 2.0</title>
+				<title>Definitely Not An Amazon Clone</title>
 			</Head>
 			{/* Header */}
 			<Header />

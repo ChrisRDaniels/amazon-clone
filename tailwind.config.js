@@ -13,7 +13,7 @@ module.exports = {
 					DEFAULT: "#131921"
 				},
 				white_smoke: {
-					DEFAULT: "#F0F0F0"
+					DEFAULT: "#EAEDED"
 				}
 			}
 		}
